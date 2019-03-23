@@ -1,5 +1,7 @@
 # Gloading
 
+[中文文档](README-zh-CN.md)
+
 Show global loading status view in a low coupling way for Android App.
 
 [JavaDocs](https://luckybilly.github.io/Gloading/) | [Download Demo](https://github.com/luckybilly/Gloading/raw/master/demo.apk)
@@ -115,6 +117,8 @@ holder.showFailed()
 //show empty status view by holder. (load completed, but data is empty)
 holder.showEmpty()
 ```
+
+More [Gloading.Holder APIs](https://luckybilly.github.io/Gloading/com/billy/android/loading/Gloading.Holder.html)
 
 ## Practice
 
